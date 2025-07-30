@@ -1,6 +1,6 @@
 package aula.dev.dojo.javacore.intrducaoclasses.dominio;
 
-public class Pessoa {
+public class Estudante {
     // atributos
     public String nome;
     public int idade;
