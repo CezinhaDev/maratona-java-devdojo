@@ -16,6 +16,8 @@ public class CarroTest {
         carro2.modelo = "Civic";
         carro2.ano = 2022;
 
+        carro1 = carro2; // referencias de objetos
+
         // Imprimindo os dados
         System.out.println("Carro 1:");
         System.out.println("Nome: " + carro1.nome);
