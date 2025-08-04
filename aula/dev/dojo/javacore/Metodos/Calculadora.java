@@ -9,4 +9,8 @@ public class Calculadora {
     public void subSoma(){
         System.out.println(10-5);
     }
+
+    public void multiplicaNumeros(int num1, int num2){ // usando parametros
+        System.out.println(num1 * num2);
+    }
 }
