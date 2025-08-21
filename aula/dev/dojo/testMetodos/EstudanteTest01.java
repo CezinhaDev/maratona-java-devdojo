@@ -24,5 +24,7 @@ public class EstudanteTest01 {
         
         impressora.imprimeEstudante(estudante2);
         impressora.imprimeEstudante(estudante);
+        impressora.imprimeEstudante(estudante2);
+        impressora.imprimeEstudante(estudante);
     }
 }
